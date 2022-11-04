@@ -1,5 +1,5 @@
 # CProjects
-Projects made with C &amp; C++ 
+Projects made with C/C++ 
 
 > First of all, C++ has 63 keywords and C only have 32.
 >> And what it makes better C++ is that you can hide your data by the encapsulate
